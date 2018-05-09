@@ -9,8 +9,11 @@ import android.view.ViewGroup;
 
 
 /**
- * A simple {@link Fragment} subclass.
+ * Created by mattjashworth on 07/05/2018.
+ * For University of Hull Tour Guide Manager
+ * Originally CanvasAPI.
  */
+
 public class OrganiserHomeFragment extends Fragment {
 
 

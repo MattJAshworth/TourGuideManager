@@ -21,8 +21,11 @@ import com.google.android.gms.maps.model.MarkerOptions;
 
 
 /**
- * A simple {@link Fragment} subclass.
+ * Created by mattjashworth on 07/05/2018.
+ * For University of Hull Tour Guide Manager
+ * Originally CanvasAPI.
  */
+
 public class MapsFragment extends Fragment implements OnMapReadyCallback {
 
     View rootView;

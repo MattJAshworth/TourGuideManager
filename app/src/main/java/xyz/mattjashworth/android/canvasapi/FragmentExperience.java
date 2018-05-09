@@ -1,10 +1,5 @@
 package xyz.mattjashworth.android.canvasapi;
 
-/**
- * Created by mattjashworth on 07/05/2018.
- * For canvasAPI.
- */
-
 import android.content.Context;
 import android.content.Intent;
 import android.graphics.drawable.AnimationDrawable;
@@ -44,6 +39,11 @@ import com.parse.ParseUser;
 
 import java.io.File;
 
+/**
+ * Created by mattjashworth on 07/05/2018.
+ * For University of Hull Tour Guide Manager
+ * Originally CanvasAPI.
+ */
 
 public class FragmentExperience extends AppCompatActivity {
 

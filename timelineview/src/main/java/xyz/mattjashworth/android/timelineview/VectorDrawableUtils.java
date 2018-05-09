@@ -9,7 +9,7 @@ import android.graphics.drawable.VectorDrawable;
 import android.os.Build;
 
 /**
- * Created by Vipul on 28/12/16.
+ * Created by MattJAshworth 12/05/2017.
  */
 
 public class VectorDrawableUtils {

@@ -14,8 +14,9 @@ import android.view.MenuItem;
 import com.parse.ParseUser;
 
 /**
- * Created by mattjashworth on 09/05/2018.
- * For canvasAPI.
+ * Created by mattjashworth on 07/05/2018.
+ * For University of Hull Tour Guide Manager
+ * Originally CanvasAPI.
  */
 
 public class FragmentExperienceOrganiser extends AppCompatActivity

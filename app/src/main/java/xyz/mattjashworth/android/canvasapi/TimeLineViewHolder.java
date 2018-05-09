@@ -10,7 +10,7 @@ import butterknife.BindView;
 import butterknife.ButterKnife;
 
 /**
- * Created by HP-HP on 05-12-2015.
+ * Created by MattJAshworth 12/05/2017.
  */
 public class TimeLineViewHolder extends RecyclerView.ViewHolder {
 

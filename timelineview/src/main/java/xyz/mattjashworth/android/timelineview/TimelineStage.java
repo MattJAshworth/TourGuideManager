@@ -1,7 +1,7 @@
 package xyz.mattjashworth.android.timelineview;
 
 /**
- * Created by HP-HP on 07-06-2016.
+ * Created by MattJAshworth 12/05/2017.
  */
 public enum TimelineStage {
 

@@ -16,6 +16,12 @@ import com.parse.Parse;
 import com.parse.ParseInstallation;
 import com.parse.ParseUser;
 
+/**
+ * Created by mattjashworth on 07/05/2018.
+ * For University of Hull Tour Guide Manager
+ * Originally CanvasAPI.
+ */
+
 public class SplashActivity extends Activity {
 
 

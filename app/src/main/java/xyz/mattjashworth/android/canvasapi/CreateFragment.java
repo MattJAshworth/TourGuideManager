@@ -18,8 +18,11 @@ import com.parse.SignUpCallback;
 
 
 /**
- * A simple {@link Fragment} subclass.
+ * Created by mattjashworth on 07/05/2018.
+ * For University of Hull Tour Guide Manager
+ * Originally CanvasAPI.
  */
+
 public class CreateFragment extends Fragment {
 
     View rootView;
@@ -35,7 +38,7 @@ public class CreateFragment extends Fragment {
         final Switch newOrganiser = (Switch) rootView.findViewById(R.id.switch_Organiser);
         Button createNewUser = (Button) rootView.findViewById(R.id.btn_CreateAccount);
         Spinner selectUser = (Spinner) rootView.findViewById(R.id.spinner_SelectUser);
-        
+
 
         final String currentUser;
 

@@ -29,8 +29,11 @@ import xyz.mattjashworth.android.timelineview.Orientation;
 import xyz.mattjashworth.android.timelineview.TimeLineModel;
 
 /**
- * A simple {@link Fragment} subclass.
+ * Created by mattjashworth on 07/05/2018.
+ * For University of Hull Tour Guide Manager
+ * Originally CanvasAPI.
  */
+
 public class ScheduleFragment extends Fragment {
 
 

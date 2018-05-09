@@ -31,8 +31,11 @@ import static android.content.ContentValues.TAG;
 
 
 /**
- * A simple {@link Fragment} subclass.
+ * Created by mattjashworth on 07/05/2018.
+ * For University of Hull Tour Guide Manager
+ * Originally CanvasAPI.
  */
+
 public class SendMessagesFragment extends Fragment {
 
 

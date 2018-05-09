@@ -4,7 +4,7 @@ import android.os.Parcel;
 import android.os.Parcelable;
 
 /**
- * Created by HP-HP on 05-12-2015.
+ * Created by MattJAshworth 12/05/2017.
  */
 public class TimeLineModel implements Parcelable {
 
