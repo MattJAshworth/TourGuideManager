@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    //Tour Guides
+
+    <item
+        android:id="@+id/navigation_schedule"
+        android:icon="@drawable/ic_schedule_light"
+        android:title="@string/navigation_schedule" />
+
+    <item
+        android:id="@+id/navigation_maps"
+        android:icon="@drawable/ic_mapping_light"
+        android:title="@string/navigation_mapping" />
+
+    <item
+        android:id="@+id/navigation_updates"
+        android:icon="@drawable/ic_updates_light"
+        android:title="@string/navigation_updates" />
+
+    <item
+        android:id="@+id/navigation_logout"
+        android:icon="@drawable/ic_logout_light"
+        android:title="@string/navigation_logout" />
+
+
+
+
+</menu>

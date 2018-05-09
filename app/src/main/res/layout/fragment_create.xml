@@ -1,0 +1,87 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="xyz.mattjashworth.android.canvasapi.CreateFragment">
+
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="70dp"
+        android:gravity="center_horizontal"
+        android:text="Create Tour Guide"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/textView3"
+        android:gravity="center_horizontal"
+        android:text="Select User"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/btn_CreateAccount"
+        android:layout_marginTop="24dp"
+        android:gravity="center_horizontal"
+        android:text="Create Schedule"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/et_NewUser"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="8dp"
+        android:ems="10"
+        android:hint="Username..."
+        android:inputType="textPersonName" />
+
+    <EditText
+        android:id="@+id/et_NewPass"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/et_NewUser"
+        android:layout_below="@+id/et_NewUser"
+        android:ems="10"
+        android:hint="Password..."
+        android:inputType="textPassword" />
+
+    <Switch
+        android:id="@+id/switch_Organiser"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/et_NewPass"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        android:text="Organiser Account" />
+
+    <Button
+        android:id="@+id/btn_CreateAccount"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/switch_Organiser"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="14dp"
+        android:text="Create Account" />
+
+    <Spinner
+        android:id="@+id/spinner_SelectUser"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/textView2" />
+</RelativeLayout>

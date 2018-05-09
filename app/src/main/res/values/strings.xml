@@ -1,0 +1,139 @@
+<resources>
+    <string name="app_name">canvasAPI</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+    //Splash
+    <string name="about_title">Dev Notes</string>
+    <string name="about_message">This application is part of a project for the final year dissertation of Matthew J Ashworth for
+    the BSc in Computer Science. \n \nDue to the nature of the project Open Days run on specific days. The first Open Day scheduled
+        is on the 22nd May 2018. \n \nFeel free to use the app with the provided demo open day template or view the code.
+        Details about the neccessary dependancies and build tools are located in "README". \n\nThanks Matt.</string>
+
+    <!--Titles-->
+    <string name="login_title">Login</string>
+    <string name="signup_title">Sign up</string>
+
+    <!--Welcome messages-->
+    <string name="splash_welcome_txt">University of Hull \nTour Guide Manager</string>
+    <string name="login_welcome_txt">Hello there!\nSign in with Canvas ID</string>
+    <string name="signup_welcome_txt">Hello there !\nWelcome to you</string>
+
+
+    <!--Button labels-->
+    <string name="login_btn_label">Login With Canvas</string>
+    <string name="signup_btn_label">Signup</string>
+
+    <string name="login_label">" Login"</string>
+    <string name="signup_label">" Signup"</string>
+
+    <string name="login_fb_btn_label">Web Login</string>
+    <string name="signup_fb_btn_label">Web Login</string>
+
+    <string name="get_started_btn_label">About</string>
+
+    <!--Edit Text hints-->
+    <string name="email_address_hint">Canvas Username...</string>
+    <string name="full_name_hint">Full Name</string>
+    <string name="password_hint">Password</string>
+
+
+    <!--Misc texts-->
+    <string name="forgot_password">Forgot password?</string>
+    <string name="no_account">Open Day Tour Guide Manager v1.0 \nby Matt J Ashworth</string>
+    <string name="have_account">Have an account?</string>
+    <string name="divider_or">OR</string>
+
+
+    //Parse Auth
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+
+    <!-- Change the following strings as required -->
+    <string name="back4app_app_id">g1jLQUVXl06RuRrn4gByVCafJRqrOOpww24Rp8rZ</string>
+    <string name="back4app_client_key">KCAzc7sHDr6AYw1Fbu0cTHVGgixfEM7eVzUW3LMx</string>
+
+    //App
+    <string name="navigation_schedule">Schedule</string>
+    <string name="navigation_mapping">Maps</string>
+    <string name="navigation_updates">Updates</string>
+    <string name="navigation_logout">Log Out</string>
+    <string name="navigation_home">Home</string>
+    <string name="navigation_locate">Locate Tour Groups</string>
+    <string name="navigation_sendmessages">Push Messages to Tour Groups</string>
+    <string name="navigation_create">Create Tour Guides/Schedules</string>
+
+    <string name="schedule">Open Day Schedule</string>
+
+    <string name="send_message_response_good">Your message was sent</string>
+    <string name="sendMessage_response_bad">Your message was not send</string>
+
+    <string-array name="schedule">
+        <item>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In purus dolor, sollicitudin ut suscipit eget, pretium vitae nulla. Duis id faucibus tortor, eu viverra turpis. Etiam auctor, sem nec placerat.</item>
+        <item>Nulla tristique porta congue. Donec laoreet, nisl quis consectetur varius, dui ante euismod ipsum, sed aliquet diam diam sit amet tellus. Aliquam in turpis pretium, bibendum mi eget, ultrices ipsum.</item>
+        <item>Nulla tempus, arcu ut pulvinar volutpat, metus felis convallis lacus, non cursus erat metus eget purus. Donec porta nibh a tellus rhoncus, ac porta massa elementum. Cras quis vulputate orci.</item>
+        <item>Curabitur et magna sit amet nibh suscipit malesuada. Quisque at nisl ex. In vel finibus nisl. Sed vitae dui lobortis mauris bibendum finibus et eget diam. Fusce erat nisl, suscipit.</item>
+        <item>Donec nisi urna, aliquam vitae congue id, tristique ut nisl. Morbi sit amet maximus nisi, at eleifend nisl. Praesent scelerisque, quam nec placerat porta, nulla diam pellentesque nunc, et bibendum.</item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In purus dolor, sollicitudin ut suscipit eget, pretium vitae nulla. Duis id faucibus tortor, eu viverra turpis. Etiam auctor, sem nec placerat.</item>
+        <item>Etiam ullamcorper mi congue varius sagittis. Nunc quam lectus, ullamcorper eget viverra vitae, auctor in leo. Donec condimentum convallis velit vitae laoreet. Fusce vitae leo sed nibh egestas blandit in.</item>
+        <item>Fusce in magna eget libero aliquam ultricies vitae sit amet diam. Maecenas ut aliquet purus. Pellentesque ipsum metus, rhoncus vel blandit ut, ultrices a massa. Praesent quis consectetur lectus. Ut.</item>
+        <item>Aliquam at sapien neque. Etiam vulputate, mauris quis egestas viverra, magna arcu tempus risus, eu vehicula augue eros sit amet sem. In facilisis eleifend porta. Etiam volutpat porttitor ligula, sit.</item>
+        <item>Nulla facilisi. Vestibulum vel luctus lectus. Nam nec dictum sem. Pellentesque sit amet nunc eu erat sagittis euismod. Quisque placerat sem commodo, ultricies sem sed, bibendum eros. Orci varius natoque.</item>
+        <item>Aliquam rutrum metus id libero ultricies, ut vehicula mi semper. Curabitur nibh nisl, vehicula ac vehicula non, scelerisque vitae risus. Suspendisse sagittis, orci eu vulputate tincidunt, mi tellus convallis ante.</item>
+        <item>Morbi gravida pretium leo sed vehicula. Vivamus pulvinar, mauris a cursus consequat, tellus nisi interdum libero, ut condimentum justo dui quis diam. Sed eget enim elementum, condimentum est ac, semper.</item>
+        <item>Suspendisse viverra augue odio, a luctus massa pharetra vel. Phasellus placerat volutpat lobortis. Nulla vitae tellus eu urna finibus convallis. Class aptent taciti sociosqu ad litora torquent per conubia nostra.</item>
+        <item>Mauris tempor orci ex, et ullamcorper justo hendrerit vitae. Pellentesque porttitor, magna eget rhoncus ultricies, nulla lectus placerat quam, id volutpat lacus metus at massa. Nunc sit amet odio vestibulum.</item>
+        <item>Donec ante ante, pulvinar a commodo vitae, congue id lectus. Duis mattis ut tellus vitae bibendum. Vivamus a tempus purus, quis lobortis nunc. Etiam at bibendum massa, vitae venenatis ante.</item>
+    </string-array>
+
+    <string-array name="schedule_timeline">
+        <item>13:00 - Staff House</item>
+        <item>13:10 - Fenner</item>
+        <item>13:20 - RBB</item>
+        <item>13:30 - Library</item>
+        <item>14:45 - Larkin</item>
+        <item>14:50 - Venn</item>
+        <item>14:55 - Middleton Hall</item>
+        <item>15:00 - Business School</item>
+        <item>15:10 - Allam Medical Building</item>
+        <item>15:20 - Chemisty</item>
+        <item>15:30 - Ferens</item>
+        <item>15:35 - Wilberforce</item>
+        <item>15:40 - University Union</item>
+        <item>15:50 - The Courtyard</item>
+        <item>16:00 - Sports and Fitness Centre</item>
+    </string-array>
+
+
+    <string-array name="sample_messages">
+        <item>Your tour group will now start at 13:10</item>
+        <item>There will be 12 people in your tour group</item>
+        <item>Contact me using the send message button</item>
+        <item>Your tour should last 1 hour</item>
+        <item>You will be expected to answer any questions visitors may have</item>
+        <item>You can use the app to give you any pointers if you get stuck</item>
+        <item>Please stick to the schedule seen in the app</item>
+        <item>If you get lost look in the map section for a new route</item>
+        <item>The map section shows all the university buildings</item>
+        <item>The icon in the bottom right logs you out</item>
+        <item>The Timeline View was created by Matt J Ashworth in May 2017</item>
+        <item>The Canvas API was made from reverse engineering the private API endpoint</item>
+        <item>We hope you like the fancy background animations</item>
+        <item>Using a Parse server meant that I didn't have to manually store the session in order to keep the user logged in</item>
+        <item>More about this app in the README</item>
+        <item>Good luck</item>
+    </string-array>
+
+    <string name="navigation_drawer_open">open</string>
+    <string name="navigation_drawer_close">close</string>
+</resources>

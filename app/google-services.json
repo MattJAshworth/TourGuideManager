@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "259238084381",
+    "firebase_url": "https://uoh-open-day-gui-1517329886230.firebaseio.com",
+    "project_id": "uoh-open-day-gui-1517329886230",
+    "storage_bucket": "uoh-open-day-gui-1517329886230.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259238084381:android:85f1ae478530e5e7",
+        "android_client_info": {
+          "package_name": "xyz.mattjashworth.android.canvasapi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "259238084381-99slplma4cld0ld9n92dcneadquhep7u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBA6NvvU_jjkq3A9NETxPiGK4Pxi-3UbC4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
