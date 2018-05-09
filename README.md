@@ -5,5 +5,5 @@
 * minSdkVersion 19
 * targetSdkVersion 27
 
-About...coming soon \n
-Complete video demonstration available at https://mattjashworth.xyz/dissertation
+About...coming soon
+- Complete video demonstration available at https://mattjashworth.xyz/dissertation
