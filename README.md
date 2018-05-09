@@ -6,3 +6,4 @@
 * targetSdkVersion 27
 
 About...coming soon
+Complete video demonstration available at https://mattjashworth.xyz/dissertation
